@@ -1,0 +1,11 @@
+pyhcl
+ansible==2.10.5
+ansible-lint
+awscli
+python-lambda-local
+boto3
+##openshift needed for ansible k8s module##
+openshift
+kubernetes==11
+pyyaml
+pexpect
